@@ -1,6 +1,6 @@
 /* 
 -------------------------------------------------------------------------
-Name:     		Ian Korrub
+Name:     		Ian
 Date: 			6/20
 Project #:		4
 Status: 		Submited
